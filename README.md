@@ -16,9 +16,9 @@ We made two versions of this project:
 
 # Build
 ### Terminal version
-Use commands on '/build/build.sh'.
+Use commands on `/build/build.sh`.
 ### GUI version
-Use command 'npm start'.
+Use command `npm start`.
 
 # TODO list
 Finish the electron version.
