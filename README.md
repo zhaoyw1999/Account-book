@@ -1,4 +1,6 @@
 # Account-book
+![](http://cdnofblog.cfzhao.com/%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%9C%ACelectron%E7%89%88.png)
+
 [Works of programming-week] An application to tell you how poor you are.
 
 We push this project on github to commemorate the programming week(2018.10).
